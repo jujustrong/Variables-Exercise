@@ -1,0 +1,15 @@
+/Users/jarmstrong/Desktop/repos/Variables-Exercise/VariablesExercise/bin/Debug/net6.0/VariablesExercise
+/Users/jarmstrong/Desktop/repos/Variables-Exercise/VariablesExercise/bin/Debug/net6.0/VariablesExercise.deps.json
+/Users/jarmstrong/Desktop/repos/Variables-Exercise/VariablesExercise/bin/Debug/net6.0/VariablesExercise.runtimeconfig.json
+/Users/jarmstrong/Desktop/repos/Variables-Exercise/VariablesExercise/bin/Debug/net6.0/VariablesExercise.dll
+/Users/jarmstrong/Desktop/repos/Variables-Exercise/VariablesExercise/bin/Debug/net6.0/VariablesExercise.pdb
+/Users/jarmstrong/Desktop/repos/Variables-Exercise/VariablesExercise/obj/Debug/net6.0/VariablesExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jarmstrong/Desktop/repos/Variables-Exercise/VariablesExercise/obj/Debug/net6.0/VariablesExercise.AssemblyInfoInputs.cache
+/Users/jarmstrong/Desktop/repos/Variables-Exercise/VariablesExercise/obj/Debug/net6.0/VariablesExercise.AssemblyInfo.cs
+/Users/jarmstrong/Desktop/repos/Variables-Exercise/VariablesExercise/obj/Debug/net6.0/VariablesExercise.csproj.CoreCompileInputs.cache
+/Users/jarmstrong/Desktop/repos/Variables-Exercise/VariablesExercise/obj/Debug/net6.0/VariablesExercise.sourcelink.json
+/Users/jarmstrong/Desktop/repos/Variables-Exercise/VariablesExercise/obj/Debug/net6.0/VariablesExercise.dll
+/Users/jarmstrong/Desktop/repos/Variables-Exercise/VariablesExercise/obj/Debug/net6.0/refint/VariablesExercise.dll
+/Users/jarmstrong/Desktop/repos/Variables-Exercise/VariablesExercise/obj/Debug/net6.0/VariablesExercise.pdb
+/Users/jarmstrong/Desktop/repos/Variables-Exercise/VariablesExercise/obj/Debug/net6.0/VariablesExercise.genruntimeconfig.cache
+/Users/jarmstrong/Desktop/repos/Variables-Exercise/VariablesExercise/obj/Debug/net6.0/ref/VariablesExercise.dll
